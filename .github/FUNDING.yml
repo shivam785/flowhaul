@@ -10,4 +10,4 @@ liberapay: # Add your Liberapay username
 issuehunt: # Add your IssueHunt username
 otechie: # Add your Otechie username
 lfx_crowdfunding: # Add your LFX Crowdfunding project name
-custom: [""] # Your custom sponsorship link
+custom: [''] # Your custom sponsorship link
